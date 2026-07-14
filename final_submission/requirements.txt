@@ -1,0 +1,9 @@
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+matplotlib
+SudachiPy
+sudachidict_core
+sentence-transformers
+torch

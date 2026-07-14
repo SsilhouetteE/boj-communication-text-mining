@@ -1,0 +1,57 @@
+﻿doc_id,type,period,phase,speaker,title,label_field,label,count,document_chunk_count,proportion,weighting_method
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,policy_direction,引き締め的,0,9,0.0,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,policy_direction,中立的,1,9,0.1111111111111111,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,policy_direction,緩和的,6,9,0.6666666666666666,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,policy_direction,該当なし,2,9,0.2222222222222222,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,communication_function,政策行動,6,9,0.6666666666666666,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,communication_function,政策の根拠,0,9,0.0,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,communication_function,経済見通し,0,9,0.0,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,communication_function,リスク・不確実性,0,9,0.0,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,communication_function,期待形成,1,9,0.1111111111111111,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,communication_function,背景・その他,2,9,0.2222222222222222,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,certainty,明確,5,9,0.5555555555555556,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,certainty,条件付き,2,9,0.2222222222222222,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,certainty,慎重,0,9,0.0,within_document
+D01,statement,pre_end_nirp,before,日本銀行,当面の金融政策運営について,certainty,該当なし,2,9,0.2222222222222222,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,policy_direction,引き締め的,4,39,0.10256410256410256,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,policy_direction,中立的,15,39,0.38461538461538464,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,policy_direction,緩和的,8,39,0.20512820512820512,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,policy_direction,該当なし,12,39,0.3076923076923077,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,communication_function,政策行動,1,39,0.02564102564102564,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,communication_function,政策の根拠,6,39,0.15384615384615385,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,communication_function,経済見通し,9,39,0.23076923076923078,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,communication_function,リスク・不確実性,3,39,0.07692307692307693,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,communication_function,期待形成,7,39,0.1794871794871795,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,communication_function,背景・その他,13,39,0.3333333333333333,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,certainty,明確,19,39,0.48717948717948717,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,certainty,条件付き,7,39,0.1794871794871795,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,certainty,慎重,10,39,0.2564102564102564,within_document
+D02,speech,pre_end_nirp,before,日本銀行副総裁 内田 眞一,【挨拶】 最近の金融経済情勢と金融政策運営 奈良県金融経済懇談会における挨拶,certainty,該当なし,3,39,0.07692307692307693,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,policy_direction,引き締め的,5,12,0.4166666666666667,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,policy_direction,中立的,3,12,0.25,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,policy_direction,緩和的,3,12,0.25,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,policy_direction,該当なし,1,12,0.08333333333333333,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,communication_function,政策行動,6,12,0.5,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,communication_function,政策の根拠,1,12,0.08333333333333333,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,communication_function,経済見通し,2,12,0.16666666666666666,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,communication_function,リスク・不確実性,2,12,0.16666666666666666,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,communication_function,期待形成,0,12,0.0,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,communication_function,背景・その他,1,12,0.08333333333333333,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,certainty,明確,6,12,0.5,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,certainty,条件付き,3,12,0.25,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,certainty,慎重,2,12,0.16666666666666666,within_document
+D03,statement,end_nirp,post,日本銀行,金融政策の枠組みの見直しについて,certainty,該当なし,1,12,0.08333333333333333,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,policy_direction,引き締め的,4,38,0.10526315789473684,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,policy_direction,中立的,23,38,0.6052631578947368,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,policy_direction,緩和的,2,38,0.05263157894736842,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,policy_direction,該当なし,9,38,0.23684210526315788,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,communication_function,政策行動,2,38,0.05263157894736842,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,communication_function,政策の根拠,11,38,0.2894736842105263,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,communication_function,経済見通し,7,38,0.18421052631578946,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,communication_function,リスク・不確実性,5,38,0.13157894736842105,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,communication_function,期待形成,4,38,0.10526315789473684,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,communication_function,背景・その他,9,38,0.23684210526315788,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,certainty,明確,16,38,0.42105263157894735,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,certainty,条件付き,9,38,0.23684210526315788,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,certainty,慎重,8,38,0.21052631578947367,within_document
+D04,speech,post_end_nirp,post,日本銀行総裁 植田 和男,【講演】 賃金と物価の好循環と今後の金融政策運営 読売国際経済懇話会における講演,certainty,該当なし,5,38,0.13157894736842105,within_document

@@ -1,0 +1,688 @@
+[
+  {
+    "chunk_id": "D01_C001",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "以下のとおり決定した"
+  },
+  {
+    "chunk_id": "D01_C002",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "金融市場調節方針は、以下のとおりとする"
+  },
+  {
+    "chunk_id": "D01_C003",
+    "policy_direction": "緩和的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "▲0.1%のマイナス金利を適用する"
+  },
+  {
+    "chunk_id": "D01_C004",
+    "policy_direction": "緩和的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "上限を設けず必要な金額の長期国債の買入れを行う"
+  },
+  {
+    "chunk_id": "D01_C005",
+    "policy_direction": "緩和的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "大規模な国債買入れを継続する"
+  },
+  {
+    "chunk_id": "D01_C006",
+    "policy_direction": "緩和的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "必要に応じて、買入れを行う"
+  },
+  {
+    "chunk_id": "D01_C007",
+    "policy_direction": "緩和的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "貸付実行期限を1年間延長する"
+  },
+  {
+    "chunk_id": "D01_C008",
+    "policy_direction": "緩和的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "必要があれば、躊躇なく追加的な金融緩和措置を講じる"
+  },
+  {
+    "chunk_id": "D01_C009",
+    "policy_direction": "中立的",
+    "communication_function": "政策行動",
+    "certainty": "条件付き",
+    "evidence": "金利の実勢等を踏まえて、適宜決定する"
+  },
+  {
+    "chunk_id": "D02_C001",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "誠にありがとうございます"
+  },
+  {
+    "chunk_id": "D02_C002",
+    "policy_direction": "該当なし",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "引き続き注視していかなければならない"
+  },
+  {
+    "chunk_id": "D02_C003",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "明確",
+    "evidence": "潜在成長率を上回る成長を予想しております"
+  },
+  {
+    "chunk_id": "D02_C004",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "慎重",
+    "evidence": "警戒は怠れません"
+  },
+  {
+    "chunk_id": "D02_C005",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "条件付き",
+    "evidence": "賃上げによる所得の改善が重要なカギになります"
+  },
+  {
+    "chunk_id": "D02_C006",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "明確",
+    "evidence": "緩やかな拡大傾向にあります"
+  },
+  {
+    "chunk_id": "D02_C007",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "明確",
+    "evidence": "基調的な物価上昇率は、25年度にかけて、2%に向けて徐々に高まっていく"
+  },
+  {
+    "chunk_id": "D02_C008",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "条件付き",
+    "evidence": "こうした見通しが実現するためには"
+  },
+  {
+    "chunk_id": "D02_C009",
+    "policy_direction": "中立的",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "不確実性が残っています"
+  },
+  {
+    "chunk_id": "D02_C010",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "明確",
+    "evidence": "人件費などの上昇が続くことを織り込みながら、販売価格を設定していこうとしている"
+  },
+  {
+    "chunk_id": "D02_C011",
+    "policy_direction": "中立的",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "人件費の販売価格への転嫁は難しい"
+  },
+  {
+    "chunk_id": "D02_C012",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "慎重",
+    "evidence": "総合的に判断していきます"
+  },
+  {
+    "chunk_id": "D02_C013",
+    "policy_direction": "緩和的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "大規模な金融緩和を続けています"
+  },
+  {
+    "chunk_id": "D02_C014",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "慎重",
+    "evidence": "先行きの不確実性はなお高い"
+  },
+  {
+    "chunk_id": "D02_C015",
+    "policy_direction": "引き締め的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "大規模な金融緩和は役割を果たしたことになり、その修正を検討する"
+  },
+  {
+    "chunk_id": "D02_C016",
+    "policy_direction": "引き締め的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "仮にこの状態に戻すとすれば"
+  },
+  {
+    "chunk_id": "D02_C017",
+    "policy_direction": "緩和的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "どんどん利上げをしていくようなパスは考えにくく"
+  },
+  {
+    "chunk_id": "D02_C018",
+    "policy_direction": "中立的",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "中立的な名目金利は2%になるはずだ"
+  },
+  {
+    "chunk_id": "D02_C019",
+    "policy_direction": "緩和的",
+    "communication_function": "政策の根拠",
+    "certainty": "慎重",
+    "evidence": "緩和的な政策を行う必要がある"
+  },
+  {
+    "chunk_id": "D02_C020",
+    "policy_direction": "緩和的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "その過程では緩和的な金融環境を維持していくことになるだろう"
+  },
+  {
+    "chunk_id": "D02_C021",
+    "policy_direction": "引き締め的",
+    "communication_function": "期待形成",
+    "certainty": "慎重",
+    "evidence": "市場の自由な金利形成をより尊重していく方向になります"
+  },
+  {
+    "chunk_id": "D02_C022",
+    "policy_direction": "引き締め的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "大規模緩和を修正する時には、この買入れもやめるのが自然です"
+  },
+  {
+    "chunk_id": "D02_C023",
+    "policy_direction": "中立的",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "大きな転換点にあります"
+  },
+  {
+    "chunk_id": "D02_C024",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "15年間にわたってデフレが続きました"
+  },
+  {
+    "chunk_id": "D02_C025",
+    "policy_direction": "緩和的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "十分な金融緩和の効果を得るには、金利を大きく引き下げる必要があります"
+  },
+  {
+    "chunk_id": "D02_C026",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "慎重",
+    "evidence": "虚心坦懐に評価していきたい"
+  },
+  {
+    "chunk_id": "D02_C027",
+    "policy_direction": "緩和的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "相当に緩和的な状況を作り出しました"
+  },
+  {
+    "chunk_id": "D02_C028",
+    "policy_direction": "緩和的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "金融緩和によって経済に強い刺激を与えて"
+  },
+  {
+    "chunk_id": "D02_C029",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "明確",
+    "evidence": "現在のタイトな労働市場は、こうした背景を持つ"
+  },
+  {
+    "chunk_id": "D02_C030",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "明確",
+    "evidence": "解決する糸口が見えてきた"
+  },
+  {
+    "chunk_id": "D02_C031",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "相対的に移行コストが小さい"
+  },
+  {
+    "chunk_id": "D02_C032",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "賃金・物価は上がらない、変わらない"
+  },
+  {
+    "chunk_id": "D02_C033",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "より柔軟な賃金の調整が可能になります"
+  },
+  {
+    "chunk_id": "D02_C034",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "慎重",
+    "evidence": "複合的なものとして捉える必要がある"
+  },
+  {
+    "chunk_id": "D02_C035",
+    "policy_direction": "緩和的",
+    "communication_function": "期待形成",
+    "certainty": "明確",
+    "evidence": "安定した、緩和的な金融環境を維持していきたい"
+  },
+  {
+    "chunk_id": "D02_C036",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "最後に、奈良県経済について"
+  },
+  {
+    "chunk_id": "D02_C037",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "工場立地件数は、全国でも上位の水準"
+  },
+  {
+    "chunk_id": "D02_C038",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "豊富な観光資源を備えています"
+  },
+  {
+    "chunk_id": "D02_C039",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "ご清聴ありがとうございました"
+  },
+  {
+    "chunk_id": "D03_C001",
+    "policy_direction": "引き締め的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "マイナス金利政策は、その役割を果たした"
+  },
+  {
+    "chunk_id": "D03_C002",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "以下のとおりとすることを決定した"
+  },
+  {
+    "chunk_id": "D03_C003",
+    "policy_direction": "引き締め的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "0~0.1%程度で推移するよう促す"
+  },
+  {
+    "chunk_id": "D03_C004",
+    "policy_direction": "緩和的",
+    "communication_function": "政策行動",
+    "certainty": "条件付き",
+    "evidence": "長期国債の買入れを継続する"
+  },
+  {
+    "chunk_id": "D03_C005",
+    "policy_direction": "引き締め的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "新規の買入れを終了する"
+  },
+  {
+    "chunk_id": "D03_C006",
+    "policy_direction": "引き締め的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "賃金と物価の好循環の強まりが確認されてきており"
+  },
+  {
+    "chunk_id": "D03_C007",
+    "policy_direction": "緩和的",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "賃金と物価の好循環の強まりを慎重に見極める"
+  },
+  {
+    "chunk_id": "D03_C008",
+    "policy_direction": "引き締め的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "0.1%の付利金利を適用する"
+  },
+  {
+    "chunk_id": "D03_C009",
+    "policy_direction": "緩和的",
+    "communication_function": "政策行動",
+    "certainty": "条件付き",
+    "evidence": "市場の動向や国債需給などを踏まえて実施していく"
+  },
+  {
+    "chunk_id": "D03_C010",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "明確",
+    "evidence": "わが国の景気は、一部に弱めの動きもみられるが、緩やかに回復している"
+  },
+  {
+    "chunk_id": "D03_C011",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "条件付き",
+    "evidence": "潜在成長率を上回る成長を続けると考えられる"
+  },
+  {
+    "chunk_id": "D03_C012",
+    "policy_direction": "中立的",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "不確実性はきわめて高い"
+  },
+  {
+    "chunk_id": "D04_C001",
+    "policy_direction": "引き締め的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "金融政策の枠組みを見直しました"
+  },
+  {
+    "chunk_id": "D04_C002",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "先行きの政策運営の考え方についてお話しさせていただきます"
+  },
+  {
+    "chunk_id": "D04_C003",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "明確",
+    "evidence": "所得から支出への前向きの循環は維持されています"
+  },
+  {
+    "chunk_id": "D04_C004",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "条件付き",
+    "evidence": "潜在成長率を上回る成長が続くことを想定しています"
+  },
+  {
+    "chunk_id": "D04_C005",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "明確",
+    "evidence": "個人消費は、次第に増加トレンドに復していく"
+  },
+  {
+    "chunk_id": "D04_C006",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "賃金と物価の好循環を指します"
+  },
+  {
+    "chunk_id": "D04_C007",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "強まってきていることを示唆しています"
+  },
+  {
+    "chunk_id": "D04_C008",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "条件付き",
+    "evidence": "引き続き強まっていくことを展望しています"
+  },
+  {
+    "chunk_id": "D04_C009",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "捉えることが重要となります"
+  },
+  {
+    "chunk_id": "D04_C010",
+    "policy_direction": "中立的",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "その捕捉は、必ずしも容易ではなく"
+  },
+  {
+    "chunk_id": "D04_C011",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "3つを紹介しています"
+  },
+  {
+    "chunk_id": "D04_C012",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "慎重",
+    "evidence": "かなり確からしいと窺われます"
+  },
+  {
+    "chunk_id": "D04_C013",
+    "policy_direction": "中立的",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "かなりの幅を持って解釈する必要はあります"
+  },
+  {
+    "chunk_id": "D04_C014",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "BOX4を参照"
+  },
+  {
+    "chunk_id": "D04_C015",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "企業の賃金・価格設定行動の変化が明確化してきた"
+  },
+  {
+    "chunk_id": "D04_C016",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "賃上げ率は5%超"
+  },
+  {
+    "chunk_id": "D04_C017",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "条件付き",
+    "evidence": "昨年を上回る蓋然性が高い"
+  },
+  {
+    "chunk_id": "D04_C018",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "慎重",
+    "evidence": "変化を示唆しているのではないか"
+  },
+  {
+    "chunk_id": "D04_C019",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "賃金・物価が上がりにくいことを前提とした考え方や慣行が人々や企業の間に定着"
+  },
+  {
+    "chunk_id": "D04_C020",
+    "policy_direction": "中立的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "労働需給は顕著に引き締まっています"
+  },
+  {
+    "chunk_id": "D04_C021",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "条件付き",
+    "evidence": "変化は次第に定着していくと考えています"
+  },
+  {
+    "chunk_id": "D04_C022",
+    "policy_direction": "中立的",
+    "communication_function": "経済見通し",
+    "certainty": "条件付き",
+    "evidence": "より広範に企業の行動が変化していくことを期待しています"
+  },
+  {
+    "chunk_id": "D04_C023",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "近日中の公表を予定"
+  },
+  {
+    "chunk_id": "D04_C024",
+    "policy_direction": "中立的",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "見通しを巡るリスクは、上下双方向に大きい"
+  },
+  {
+    "chunk_id": "D04_C025",
+    "policy_direction": "引き締め的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "大規模な金融緩和を見直すこととしました"
+  },
+  {
+    "chunk_id": "D04_C026",
+    "policy_direction": "引き締め的",
+    "communication_function": "政策行動",
+    "certainty": "明確",
+    "evidence": "0.1%程度の利上げとなります"
+  },
+  {
+    "chunk_id": "D04_C027",
+    "policy_direction": "引き締め的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "国債の買入れ額を減額していくことが適当"
+  },
+  {
+    "chunk_id": "D04_C028",
+    "policy_direction": "緩和的",
+    "communication_function": "政策の根拠",
+    "certainty": "明確",
+    "evidence": "実質金利は、足もと、短期でみても長期でみても、大幅なマイナス"
+  },
+  {
+    "chunk_id": "D04_C029",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "自然利子率r*(アールスター)と呼ばれるものです"
+  },
+  {
+    "chunk_id": "D04_C030",
+    "policy_direction": "中立的",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "手法によってかなり大きなバラツキがある"
+  },
+  {
+    "chunk_id": "D04_C031",
+    "policy_direction": "中立的",
+    "communication_function": "リスク・不確実性",
+    "certainty": "慎重",
+    "evidence": "r*の推計はそもそも難題"
+  },
+  {
+    "chunk_id": "D04_C032",
+    "policy_direction": "緩和的",
+    "communication_function": "政策の根拠",
+    "certainty": "慎重",
+    "evidence": "金融環境が緩和的であることは確かです"
+  },
+  {
+    "chunk_id": "D04_C033",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "BOX5を参照"
+  },
+  {
+    "chunk_id": "D04_C034",
+    "policy_direction": "中立的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "見通しやリスクを点検したうえで"
+  },
+  {
+    "chunk_id": "D04_C035",
+    "policy_direction": "中立的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "見通しに沿って基調的な物価上昇率が高まっていけば"
+  },
+  {
+    "chunk_id": "D04_C036",
+    "policy_direction": "中立的",
+    "communication_function": "期待形成",
+    "certainty": "条件付き",
+    "evidence": "経済・物価・金融情勢に応じて適切に金融政策を運営"
+  },
+  {
+    "chunk_id": "D04_C037",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "明確",
+    "evidence": "過去25年間の経済・物価情勢を改めて振り返る"
+  },
+  {
+    "chunk_id": "D04_C038",
+    "policy_direction": "該当なし",
+    "communication_function": "背景・その他",
+    "certainty": "該当なし",
+    "evidence": "ご清聴ありがとうございました"
+  }
+]
